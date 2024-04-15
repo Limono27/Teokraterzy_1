@@ -1,0 +1,25 @@
+Pytanie 12
+a
+b
+c
+d
+Pytnie 22
+a
+b
+c
+d
+Pytanie 32
+a
+b
+c
+d
+Pytnie 42
+a
+b
+c
+d
+Pytnie 52
+a
+b
+c
+d

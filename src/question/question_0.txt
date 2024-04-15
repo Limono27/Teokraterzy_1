@@ -1,0 +1,25 @@
+Pytanie 10
+a
+b
+c
+d
+Pytnie 20
+a
+b
+c
+d
+Pytanie 30
+a
+b
+c
+d
+Pytnie 40
+a
+b
+c
+d
+Pytnie 50
+a
+b
+c
+d
